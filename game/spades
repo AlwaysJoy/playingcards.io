@@ -1,0 +1,78 @@
+<!DOCTYPE html><html class="Web LandingPage" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>Spades · 4 Players · Play Free Online</title><meta property="og:title" content="Multiplayer Spades online on PlayingCards.io"><meta property="og:image" content="/img/landing/spades.png"><meta name="description" content="Can you guess how many tricks you'll win for your team?! Spades is a classic trick taking game with the twist of predicting your successes for points. It's a 4 player game traditionally played with two teams of 2 players each."><meta property="og:description" content="Can you guess how many tricks you'll win for your team?! Spades is a classic trick taking game with the twist of predicting your successes for points. It's a 4 player game traditionally played with two teams of 2 players each."><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="../docs/default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><div class="Web__section"><h1>Spades on PlayingCards.io</h1><img class="LandingPage__image" src="../img/landing/spades.png"><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="spades">Start Game</button><button class="StartGameButton__create-bulk" data-template="spades"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="LandingPage__instructions"><p>Can you guess how many tricks you&#39;ll win for your team?! Spades is a classic trick taking game with the twist of predicting your successes for points. It&#39;s a 4 player game traditionally played with two teams of 2 players each.</p>
+<h2 id="spades-rules">Spades Rules</h2>
+<h3 id="objective">Objective</h3>
+<ul>
+<li>In Spades, the goal is to accurately predict how many tricks you will win per round.</li>
+<li>The cards are ranked A - 2 (high to low) and Spades suit is always trump, beating cards of any other suit.</li>
+</ul>
+<h3 id="set-up">Set-up</h3>
+<ol>
+<li>Spades is played using a standard 52 card deck.</li>
+<li>Players divide themselves into two teams and sit so that they are opposite of their teammate (EXAMPLE: Team 1 - Player 1, Team 2 - Player 2, Team 1 - Player 3, Team 2 - Player 4).</li>
+<li>The deck is shuffled and each player is dealt 13, one card at a time.</li>
+</ol>
+<h3 id="playing-the-game">Playing the Game</h3>
+<ul>
+<li><p>Each round of Spades has a Bidding phase and a Play phase.</p>
+<p><strong>Bidding</strong></p>
+<ul>
+<li>Starting with the player left of the dealer, each player will say a bid. This bid is the number of tricks they think they will win this round (EXAMPLE: P2 bids 4 tricks based on the cards in their hand. P3 bids 5 tricks, etc).</li>
+<li>The bids are then recorded for each player.</li>
+</ul>
+<p><strong>Play</strong></p>
+<ul>
+<li><p>Starting with the player left of the dealer, each player must play one card into the middle.</p>
+</li>
+<li><p>Each player must follow suit of the first card played, if possible. If they cannot follow suit, they may play any card.</p>
+</li>
+<li><p>The winner of the trick is the player who played the highest ranking card (EXAMPLE: P2 started the trick with a K of Hearts, P3 followed with a 7 of Hearts, P3 does not have any Hearts so they play a 3 of Diamonds, P4 plays an A of Hearts. P4 wins the trick).</p>
+</li>
+<li><p>The winner takes the trick and starts a new trick by playing a card.</p>
+</li>
+<li><p>After all 13 tricks have been played, the round is over. Tricks are counted and compared to their bids.</p>
+<p>*Special Rules:</p>
+<ul>
+<li>A Spade suited card cannot be the first card played in a trick unless the player has no other suits to play OR if Spades have been broken.</li>
+<li>Spades are broken when a player cannot follow the suit of a trick and plays a Spade suited card onto the trick. Once this happens in a round, a player may then start a trick with a Spades suited card.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="scoring">Scoring</h2>
+<ul>
+<li><p>If a team reaches or exceeds their total bid amount (between both players on the team), they score 10 points for each trick up to their bid amount + 1 point for each trick beyond their bid amount (EXAMPLE: P1 bid 3 and P3 bid 4 for a total of 7. They won 8 tricks this round and thus score 71 points - 10 points for the first 7 tricks and 1 point for the 8th trick).</p>
+</li>
+<li><p>Each trick won beyond the bid amount is known as a &quot;Bag&quot; and each Bag a team gets is recorded. Bags are worth 1 point each as previously mentioned. However, if a team&#39;s number of Bags reaches 10, their team&#39;s score is penalized -100 points.</p>
+</li>
+<li><p>If a team does not reach their total bid amount in a round, they lose 10x their total bid amount (EXAMPLE: P2 and P4 each bid 3 for a total of 6, but they only won 5 tricks this past round. Their score is penalized -60 points).</p>
+<p>*Special Scoring Rules:</p>
+<ul>
+<li>A player may bid Nil (0) during the Bidding phase if they think they will win 0 tricks. If they do not win any tricks on a Nil bid, they score 100 points for their team. Conversely, if they win any tricks on a Nil bid, they score -100 points for their team.</li>
+<li>A player may also bid Blind Nil (0). This works the same way as a Nil bid except they make this bid without looking at their hand of cards before bidding. If a player wins 0 tricks on a Blind Nil bid, they score 200 points for their team. If they score any tricks on a Blind Nil Bid, they score -200 points for their team. *For PlayingCards.io, your cards will be dealt to you face-down. You must decide whether or not to bid Blind Nil before clicking them to be face-up. If you click the QTY value of your hand, you have the option to flip the entire hand at the same time for convenience.</li>
+<li>Because of Blind Nil, it&#39;s important to ask players if they are bidding Blind Nil before they look at their hand.</li>
+<li>Nil and Blind Nil bids are scored separately from normal scoring (EXAMPLE: If P1 bid 0 and P3 bid 5 and P1 ended up taking 0 tricks but P3 took 4, their team would score 100 points for P1&#39;s Nil bid and -50 for P3&#39;s bid of 5 for a total of 50 points for the round).</li>
+</ul>
+</li>
+</ul>
+<h2 id="winning">Winning</h2>
+<p>The first team to 500 or more points wins the game!</p>
+</div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="spades">Start Game</button><button class="StartGameButton__create-bulk" data-template="spades"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><p>Welcome!</p><p>PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed.</p><p>Create a room and share the room code to get started.</p></div><script async src="../build/bundle-web.js"></script></body></html>

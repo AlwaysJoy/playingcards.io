@@ -1,0 +1,32 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=yes"><meta name="description" content="The Evolution of Rummy Infographic - PlayingCards.io"><link rel="apple-touch-icon" href="img/apple-touch-icon.png"><title>The Evolution of Rummy - Infographic - PlayingCards.io</title><meta property="og:title" content="The Evolution of Rummy - Infographic - PlayingCards.io"><meta property="og:image" content="/img/infographics/evolution-of-rummy.jpg"><meta property="og:description" content="Learn about the evolution of Rummy and variants"><style>* {
+  box-sizing: border-box;
+}
+
+html, body {
+  background: #333;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: white;
+  display: inline-block;
+  font-size: 22px;
+  padding: 6px 0;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+object {
+  display: block;
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 100%;
+}
+.Infographic__foot {
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+</style></head><body><object type="image/svg+xml" data="img/infographics/evolution-of-rummy.svg">The Evolution of Rummy Infographic</object>
+<br /><div class="Infographic__foot"><div><a href="../https@www.facebook.com/sharer/sharer.php@u=https_3A_2F_2Fplayingcards.io_2Fevolution-of-rummy-infographic" target="_blank">Share on Facebook</a></div><div><a href="../https@www.twitter.com/share@url=https_3A_2F_2Fplayingcards.io_2Fevolution-of-rummy-infographic" target="_blank">Share on Twitter</a></div><div><a href="img/infographics/evolution-of-rummy.jpg">Download Image</a></div></div></body></html>

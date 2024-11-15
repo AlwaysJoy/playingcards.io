@@ -1,0 +1,46 @@
+<!DOCTYPE html><html class="Web LandingPage Landing--adult18" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>Trial by Trolley™ · 3-8 Players · Play Free Online</title><meta property="og:title" content="Multiplayer Trial by Trolley™ online on PlayingCards.io"><meta property="og:image" content="/img/landing/trial-by-trolley.png"><meta name="description" content="Trial by Trolley™ is a real card game and better played with friends! This is a Trial by Trolley demo, enjoy these 120 cards and play all 500 cards when you buy the game on Amazon [https://amzn.to/2Maf5h8], Target [https://bit.ly/2MafgZQ] or Walmart.com [https://bit.ly/2M4rsLs]. PlayingCards.io is a virtual tabletop to help you experience the game for a limited time during quarantine, all rights to Trial By Trolley 2020."><meta property="og:description" content="Trial by Trolley™ is a real card game and better played with friends! This is a Trial by Trolley demo, enjoy these 120 cards and play all 500 cards when you buy the game on Amazon [https://amzn.to/2Maf5h8], Target [https://bit.ly/2MafgZQ] or Walmart.com [https://bit.ly/2M4rsLs]. PlayingCards.io is a virtual tabletop to help you experience the game for a limited time during quarantine, all rights to Trial By Trolley 2020."><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="../docs/default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><div class="Web__section"><h1>Trial by Trolley™ on PlayingCards.io</h1><img class="LandingPage__image" src="../img/landing/trial-by-trolley.png"><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="tbt">Start Game</button><button class="StartGameButton__create-bulk" data-template="tbt"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="LandingPage__instructions"><p>Trial by Trolley™ is a real card game and better played with friends! This is a Trial by Trolley demo, enjoy these 120 cards and play all 500 cards when you buy the game on <a href="../../https@amzn.to/2Maf5h8">Amazon</a>, <a href="../../https@bit.ly/2MafgZQ">Target</a> or <a href="../../https@bit.ly/2M4rsLs">Walmart.com</a>. PlayingCards.io is a virtual tabletop to help you experience the game for a limited time during quarantine, all rights to Trial By Trolley 2020.</p>
+<h2 id="trial-by-trolley™-rules">Trial by Trolley™ Rules</h2>
+<p>For 3-8 players.</p>
+<p>Each round is started by designating one player as the conductor and splitting the remaining players into two teams. Each team is assigned to one side of the track.</p>
+<img src="../img/trial-by-trolley/tutorial-1.jpg" style="max-width: 100%;">
+
+<p>One player on each team draws 3 innocent cards, one player on each team draws 3 guilty cards, and one player on each team draws 3 modifier cards.</p>
+<img src="../img/trial-by-trolley/tutorial-2.jpg" style="max-width: 100%;">
+
+<h2 id="building-the-board">Building the Board</h2>
+<p>Each team draws a random innocent card and places it in the first slot on their side of the track.</p>
+<img src="../img/trial-by-trolley/tutorial-3.jpg" style="max-width: 100%;">
+
+<p>The two players that drew innocent cards each place a card in the second slot on their side of the track.</p>
+<img src="../img/trial-by-trolley/tutorial-4.jpg" style="max-width: 100%;">
+
+<p>The two players that drew guilty cards each place a card in the third slot on the opponents track.</p>
+<img src="../img/trial-by-trolley/tutorial-5.jpg" style="max-width: 100%;">
+
+<p>And the two players that drew modifier cards each place a card in the modifier slots anywhere on the board, on either side.</p>
+<img src="../img/trial-by-trolley/tutorial-6.jpg" style="max-width: 100%;">
+
+<h2 id="debate">Debate</h2>
+<p>Now that the board is completed, all players debate to convince the conductor to choose which side dies. When each side has made their case, the conductor decides and all of the characters on the losing side are murdered by a trolley. Each player on the losing side receives a death token. All cards are discarded and the next conductor is chosen.</p>
+<img src="../img/trial-by-trolley/tutorial-7.jpg" style="max-width: 100%;">
+
+<p>Have fun!</p>
+</div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="tbt">Start Game</button><button class="StartGameButton__create-bulk" data-template="tbt"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><p>Welcome!</p><p>PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed.</p><p>Create a room and share the room code to get started.</p></div><script async src="../build/bundle-web.js"></script></body></html>

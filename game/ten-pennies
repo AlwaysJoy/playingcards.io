@@ -1,0 +1,97 @@
+<!DOCTYPE html><html class="Web LandingPage" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>Ten Pennies · 2-4 Players · Play Free Online</title><meta property="og:title" content="Multiplayer Ten Pennies online on PlayingCards.io"><meta property="og:image" content="/img/landing/ten-pennies.png"><meta name="description" content="A rummy-style card game for 2-4 players where everyone works to empty their hands as quickly as possible by creating melds. Don't run out of pennies!"><meta property="og:description" content="A rummy-style card game for 2-4 players where everyone works to empty their hands as quickly as possible by creating melds. Don't run out of pennies!"><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="../docs/default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><div class="Web__section"><h1>Ten Pennies on PlayingCards.io</h1><img class="LandingPage__image" src="../img/landing/ten-pennies.png"><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="ten-pennies-2">Start 2 Player Game</button><button class="StartGameButton__create-bulk" data-template="ten-pennies-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="ten-pennies-4">Start 3-4 Player Game</button><button class="StartGameButton__create-bulk" data-template="ten-pennies-4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="LandingPage__instructions"><p>A rummy-style card game for 2-4 players where everyone works to empty their hands as quickly as possible by creating melds. Don&#39;t run out of pennies!</p>
+<h2 id="objective">Objective</h2>
+<ul>
+<li>The ultimate goal of Ten Pennies is to be the player with the lowest score at the end of seven rounds.</li>
+<li>On their respective turns, players can &quot;buy&quot; the face-up card from the discard pile, play melds from their hand, or add cards to existing melds.</li>
+<li>When a round ends, each player is assigned points based on the cards in their hand.</li>
+<li>The player with the lowest points total at the end of seven rounds wins!</li>
+</ul>
+<h2 id="set-up">Set Up</h2>
+<ol>
+<li>Ten Pennies is played using one deck of 52 cards plus two Jokers for each pair of players. If there is an odd number of players, round up the number of decks - two players use two decks, three or four players use four decks.</li>
+<li>Each player begins with a set of ten pennies called their buy stack. These are represented with chips on PlayingCards.io.</li>
+<li>To determine who will be the first dealer/scorekeeper, each player may draw a card from the deck. The person with the highest card becomes the dealer.</li>
+<li>Shuffle the cards together, then deal each player a hand of eleven cards. The remaining cards are placed face-down to form the draw pile.</li>
+<li>Flip the top card of the draw pile face-up and place it to the side. This is the discard pile.</li>
+<li>The person to the dealer&#39;s left goes first, and play passes clockwise.</li>
+</ol>
+<h2 id="playing-the-game">Playing the Game</h2>
+<ol>
+<li><p>On the first phase of each player&#39;s turn, they have the option to buy the top card from the discard pile.</p>
+</li>
+<li><p>If they do not wish to buy, they will announce this, then draw a card from the top of the draw pile. The player whose turn is next then has the option to buy the discard card immediately. If they decline, the option passes to the next player, and so on.</p>
+</li>
+<li><p>When a player does want to buy the discard card, they put a chip into the Spent Chips pile, take the card, then draw two cards from the deck. The initial player&#39;s turn then continues.</p>
+</li>
+<li><p>In the second phase, the player can create melds or &quot;lay off&quot; cards from their hand onto melds.</p>
+</li>
+<li><p>A meld is a set of three or more cards of the same rank. This can include wild cards (see chart below), but it may not include duplicates. (Three Kings is a meld, but you can&#39;t have two King of Hearts in that meld.) In each of the seven rounds there is also a first meld requirement that must be met before other melds can be created:</p>
+<p><strong>First Melds</strong></p>
+<ul>
+<li>Round 1 - 2 sets of 3</li>
+<li>Round 2 - 1 set of 4</li>
+<li>Round 3 - 2 sets of 4</li>
+<li>Round 4 - 1 set of 5</li>
+<li>Round 5 - 2 sets of 5</li>
+<li>Round 6 - 1 set of 6</li>
+<li>Round 7 - 1 set of 7</li>
+</ul>
+<p><strong>Wild Cards Allowed</strong></p>
+<ul>
+<li>Round 1 - Jokers are wild; only 1 per set</li>
+<li>Round 2 - Jokers are wild; 1 per set</li>
+<li>Round 3 - Jokers are wild; 1 per set</li>
+<li>Round 4 - Jokers are wild; 2 per set</li>
+<li>Round 5 - Jokers, Aces, and 2 are wild; 2 of each one per set</li>
+<li>Round 6 - Jokers, Aces, and 2 are wild; 2 of each one per set</li>
+<li>Round 7 - Jokers, Aces, and 2 are wild; 3 of each one per set</li>
+</ul>
+</li>
+</ol>
+<ol start="6">
+<li><p>During this second phase, a player may also lay off cards from their hand onto existing melds. If a meld of three Aces is out, then, the player could add a fourth Ace of a different suit. There is no limit to how many cards a player can lay off.</p>
+</li>
+<li><p>Finally, when a player cannot create melds or lay off new cards, they will discard a card to the pile and their turn will end. Play passes to the player on the left and the round continues.</p>
+</li>
+<li><p>When any player empties their hand, the current round ends. Scores are tallied and the next round will begin.</p>
+</li>
+</ol>
+<h2 id="scoring">Scoring</h2>
+<ol>
+<li><p>When any player empties their hand the round immediately ends.</p>
+</li>
+<li><p>Points are assigned to each player for the total value of cards in their hand:</p>
+<p>Jokers: 50 points each</p>
+<p>Aces: 20 points each</p>
+<p>2: 20 points each</p>
+<p>10, Jack, Queen, King: 10 points each</p>
+<p>3, 4, 5, 6, 7, 8, 9: 5 points each</p>
+</li>
+<li><p>Players must also pay a chip into the Spent Chips pile for each card in their hand.</p>
+</li>
+<li><p>Once the score is tallied, the player to the left of the dealer becomes the new dealer.</p>
+</li>
+<li><p>Play continues as normal, starting from the next round. Use the Current Round counter to keep track.</p>
+</li>
+<li><p>Once the seventh round is complete, the dealer will tally up all players&#39; scores. The lowest score wins, and that player collects all of the chips from the pile.</p>
+</li>
+</ol>
+</div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="ten-pennies-2">Start 2 Player Game</button><button class="StartGameButton__create-bulk" data-template="ten-pennies-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="ten-pennies-4">Start 3-4 Player Game</button><button class="StartGameButton__create-bulk" data-template="ten-pennies-4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><p>Welcome!</p><p>PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed.</p><p>Create a room and share the room code to get started.</p></div><script async src="../build/bundle-web.js"></script></body></html>

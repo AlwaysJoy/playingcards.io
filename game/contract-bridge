@@ -1,0 +1,174 @@
+<!DOCTYPE html><html class="Web LandingPage" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>Contract Bridge · 4 Players · Play Free Online</title><meta property="og:title" content="Multiplayer Contract Bridge online on PlayingCards.io"><meta property="og:image" content="/img/landing/contract-bridge.png"><meta name="description" content="Contract Bridge is a multi-round game for 4 players in 2 teams. A team predicts and then tries to win a number of tricks. Each round one player sits out as the dummy hand."><meta property="og:description" content="Contract Bridge is a multi-round game for 4 players in 2 teams. A team predicts and then tries to win a number of tricks. Each round one player sits out as the dummy hand."><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="../docs/default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><div class="Web__section"><h1>Contract Bridge on PlayingCards.io</h1><img class="LandingPage__image" src="../img/landing/contract-bridge.png"><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="bridge">Start Game</button><button class="StartGameButton__create-bulk" data-template="bridge"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="LandingPage__instructions"><p>Contract Bridge is a multi-round game for 4 players in 2 teams. A team predicts and then tries to win a number of tricks. Each round one player sits out as the dummy hand.</p>
+<h2 id="contract-bridge-rules">Contract Bridge Rules</h2>
+<p>4 players</p>
+<p>Standard 52-card deck</p>
+<p>Cards: Ace is the highest, 2 is the lowest</p>
+<p>Suits: No Trump is the highest, Spades, Hearts, Diamonds, Clubs is lowest</p>
+<p>Suit of Trumps is determined by the winning bid</p>
+<p>Each round has 3 phases: Bid, Play Tricks, and Score</p>
+<h2 id="set-up">Set Up</h2>
+<p>Chose a dealer, mark the dealer&#39;s seat with the yellow pin.</p>
+<p>Players sit at a player seat.</p>
+<p>Players form two teams: North &amp; South versus East &amp; West.</p>
+<p>Use the Deal button to give 13 cards to each player. Your cards will appear in your private hand which is the rectangle at the bottom of your screen. The player left of the dealer starts the bidding.</p>
+<img src="../img/games/contract-bridge.jpg">
+
+<h2 id="objective">Objective</h2>
+<p>Your goal is to score points for your team. You gain points by successfully achieving your bid or by preventing your opponent from achieving their bid. There are bonus points which do not contribute to the end game conditions.</p>
+<p>First team to score 100 points wins.</p>
+<h2 id="phase-1-bid">Phase 1: Bid</h2>
+<p>The player left of the dealer bids first. Each player may bid or pass verbally (please bring your own audio chat). Bidding continues clockwise.</p>
+<p>A bid must be higher than the previous bid.</p>
+<p><strong>Example of higher bid:</strong> you may bid the same number of tricks with a higher suit (with no trump being the highest) or increase the number of tricks and use any suit.</p>
+<h3 id="bids-have-two-parts">bids HAve two parts:</h3>
+<ul>
+<li><blockquote>
+<p>A number (how many tricks over 6 your team will win)</p>
+</blockquote>
+</li>
+<li><p>A suit (The suit you propose to be trumps; or no trump)</p>
+</li>
+</ul>
+<p><strong>Example Bidding Phase:</strong> 1 Heart (meaning we will win 1 + 6 = 7 tricks, with Hearts trump), 1 Spade, pass, 4 Clubs, pass, pass, pass.</p>
+<p>When 3 players pass in a row, the contract is won by the most recent bid. The player with the last bid is called the <strong>Declarer</strong>. Enter the most recent bid in the Contract portion of the screen.</p>
+<p><strong>Example Strategy:</strong> The suit you name communicates to your teammate which suit is your strongest. If your teammate names a different suit, they are telling you they have useful cards in that suit.</p>
+<h3 id="doubling-and-redoubling">Doubling and Redoubling</h3>
+<p>When you feel the other team has bid more than they can win, you may use your bid turn to state &quot;Double.&quot; This indicates you think their bid will not succeed. If you are correct, your team will receive bonus points. If you are incorrect, the Declarer&#39;s team will receive bonus points. In response to a &quot;Double,&quot; the Declarer&#39;s team may state &quot;Redouble,&quot; creating a 4x points multiplier.</p>
+<h2 id="phase-2-play-tricks">Phase 2: Play Tricks</h2>
+<h3 id="how-a-trick-works">How A Trick Works</h3>
+<p>A trick consists of 4 cards, 1 from each player</p>
+<p>The first card sets the suit</p>
+<p>Other players following in clockwise order</p>
+<p>Each must follow the first card&#39;s suit, if it is in their hand. Otherwise, they may play a trump card or another suit</p>
+<p>The highest ranking card wins the trick. Use a team&#39;s Win Trick button to move the 4 played cards to the discard pile of the team which took the trick and increase their trick counter.</p>
+<p>The player of the winning card leads the next trick</p>
+<p>Ranking: Trump suit is highest, lead suit is next, other suits have no value. Aces are high</p>
+<h3 id="for-the-first-trick">for the First Trick</h3>
+<p>The player left of the Declarer goes first</p>
+<p>Next, the Declarer&#39;s partner lays all their cards face up in the Dummy Hand area, visible to everyone</p>
+<p>The Declarer plays a card from the Dummy Hand</p>
+<p>The third player goes</p>
+<p>The Declarer goes last</p>
+<h3 id="end-of-the-phase">End of the phase</h3>
+<p>Once all cards have been played, proceed to Scoring.</p>
+<h2 id="phase-3-score">Phase 3: Score</h2>
+<p>Below are the basics for scoring. You may wish to score using audio chat, pen, and paper. For convenience, there is a &quot;Below the Line&quot; counter on the right of the screen for players to quickly see scores as they race to 100 points. Please note: there is no &quot;Above the Line&quot; section on the screen.</p>
+<p>Did the Declarer&#39;s team win the number of tricks in their contract? If so, score the number of tricks they <u>originally</u> bid in the contract (we&#39;ll cover additional tricks in the bonus section).</p>
+<p><strong>Points are scored into one of two areas:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Contract</th>
+<th>Below the line</th>
+<th>Counts towards winning the game</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Bonus &amp; Penalty</td>
+<td>Above the line</td>
+<td>Does <u>not</u> count towards winning</td>
+</tr>
+</tbody></table>
+<p><strong>Vulnerable &amp; Not Vulnerable</strong></p>
+<p>A team which has won 1 round is labeled &quot;Vulnerable&quot; and special scoring rules apply to them.</p>
+<h3 id="contract-below-the-line"><strong>Contract</strong> (below the line)</h3>
+<p>Score the successful contract (the number of tricks over 6) <u>below</u> the line.</p>
+<table>
+<thead>
+<tr>
+<th>20 per trick</th>
+<th>Round where clubs or diamonds are trump</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>30 per trick</td>
+<td>Round where hearts or spades are trump</td>
+</tr>
+<tr>
+<td>40 for 1st trick, 30 for other tricks</td>
+<td>Round of no trump</td>
+</tr>
+</tbody></table>
+<p>If the contract was doubled, the scores will be doubled. If the contract was doubled and redoubled, score 4x. Also, the Declarer&#39;s side scores 50 points (above the line) if they successfully win a doubled contract or 100 (above the line) if they win a redoubled contract.</p>
+<h3 id="bonus--penalty-above-the-line">Bonus &amp; PenaltY (above the line)</h3>
+<p><strong>A Slam</strong></p>
+<p>A successful bid to make 12 tricks is called a small slam. A bid to make 13 tricks is a grand slam. These points are a bonus <u>above</u> the line.</p>
+<table>
+<thead>
+<tr>
+<th><u>Declarer&#39;s Team</u></th>
+<th><u>Small Slam</u></th>
+<th><u>Grand Slam</u></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Not vulnerable</td>
+<td>500</td>
+<td>1000</td>
+</tr>
+<tr>
+<td>Vulnerable</td>
+<td>750</td>
+<td>1500</td>
+</tr>
+</tbody></table>
+<p><strong>Overtricks</strong></p>
+<p>If the Declarer&#39;s side won more tricks than they bid (and the contract was not doubled), they get an additional score (<u>above</u> the line) for Overtricks. Just as for the contract, score: 20 per trick for clubs and diamonds. 30 per trick for hearts, spades or no trump.</p>
+<p><strong>Undertricks</strong></p>
+<p>If the Declarer&#39;s team did NOT win, neither side scores any points below the line. The Declarer&#39;s opponents will score <u>above</u> the line. The number of undertricks is how many tricks the Declarer&#39;s team fell short of their contract. (If this round was redoubled, please score 2x the doubled amount shown below.)</p>
+<table>
+<thead>
+<tr>
+<th><u>Penalty</u>****</th>
+<th><u>Not vulnerable</u></th>
+<th><u>Vulnerable</u></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Each undertrick</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>If Doubled: 1st undertrick</td>
+<td>100</td>
+<td>200</td>
+</tr>
+<tr>
+<td>2nd and 3rd undertricks (each)</td>
+<td>200</td>
+<td>300</td>
+</tr>
+<tr>
+<td>Each additional undertrick</td>
+<td>300</td>
+<td>300</td>
+</tr>
+</tbody></table>
+<h2 id="start-a-new-round">Start a New Round</h2>
+<p>Click the &quot;Recall &amp; Shuffle&quot; button. (Click this button twice to &quot;Recall All&quot; cards from player hands.)</p>
+<p>Reset the Bid and Tricks counters.</p>
+<p>Move the yellow dealer pin clockwise to mark a new dealer.</p>
+<p>Click the Deal button and repeat the 3 phases: Bid, Play Tricks and Score.</p>
+<h2 id="game-end">Game End</h2>
+<p>The game ends immediately when one team scores 100 points or more <u>below</u> the line.</p>
+<p><strong>For Duplicate Bridge:</strong> choose Edit Table (toolbox icon) &gt; Room Options &gt; Copy Room &gt; Copy your 6-character room code. Enter the code on the PlayingCards.io homepage. Now the Deal button will deal identical hands to players seated at North, etc.</p>
+</div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="bridge">Start Game</button><button class="StartGameButton__create-bulk" data-template="bridge"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><p>Welcome!</p><p>PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed.</p><p>Create a room and share the room code to get started.</p></div><script async src="../build/bundle-web.js"></script></body></html>

@@ -1,0 +1,130 @@
+<!DOCTYPE html><html class="Web LandingPage" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>Hand and Foot · 4 Players · Play Free Online</title><meta property="og:title" content="Multiplayer Hand and Foot online on PlayingCards.io"><meta property="og:image" content="/img/landing/hand-and-foot.png"><meta name="description" content="A partner-based game that combines elements of rummy and canasta. Players work to empty their hand by creating shared table melds, then pick up their &quot;foot&quot; as a new hand and continue play. Also known as Hand &amp; Foot Canasta."><meta property="og:description" content="A partner-based game that combines elements of rummy and canasta. Players work to empty their hand by creating shared table melds, then pick up their &quot;foot&quot; as a new hand and continue play. Also known as Hand &amp; Foot Canasta."><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="../docs/default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><div class="Web__section"><h1>Hand and Foot on PlayingCards.io</h1><img class="LandingPage__image" src="../img/landing/hand-and-foot.png"><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="hand-and-foot">Start Game</button><button class="StartGameButton__create-bulk" data-template="hand-and-foot"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="LandingPage__instructions"><p>A partner-based game that combines elements of rummy and canasta. Players work to empty their hand by creating shared table melds, then pick up their &quot;foot&quot; as a new hand and continue play. Also known as Hand &amp; Foot Canasta.</p>
+<p><a href="../evolution-of-rummy-infographic">Check out our Rummy infographic</a></p>
+<h2 id="hand-and-foot-rules">Hand and Foot Rules</h2>
+<!-- Objective -->
+
+<ul>
+<li>The goal of Hand and Foot is to empty your hand by forming table melds and to end up as the highest scoring team after four rounds.</li>
+<li>Players start with a 13-card hand along with a face-down 13-card &quot;foot&quot; that is only used once the hand is emptied.</li>
+<li>Points are distributed on a per-team-basis, so players must work together to build valuable melds and try to block their opponents from picking up cards they need.</li>
+</ul>
+<h2 id="set-up">Set Up</h2>
+<ol>
+<li>Four players form two teams with partners sitting opposite each other. Teammates share a melding space on the table.</li>
+<li>You will need one deck more than the number of players. So, for a game with four people you&#39;ll need five standard decks with two Jokers per pack, totaling 270 cards.</li>
+<li>Choose which team will go first. That team will deal 13 cards to each player&#39;s hand and 13 face-down cards to each player&#39;s foot. Players may not look at their foot cards until they&#39;ve played all of the cards in their hand.</li>
+<li>The remaining cards form the stock. Turn the top card of the stock over to start the discard pile. If that card is a red Three or a wild card, reshuffle it into the stock and turn over a different card.</li>
+<li>Play proceeds clockwise from the dealer.</li>
+</ol>
+<h2 id="playing-the-game">Playing the Game</h2>
+<ol>
+<li><p>Before taking their first turn of the game, each player must place any red Threes they hold face-up in their melding space, then draw the same number of cards from the stock. These are not counted as melds but will affect scores at the end of a hand.</p>
+</li>
+<li><p>On every turn, players begin by either drawing the top two cards from the stock or by taking the top seven cards from the discard pile.</p>
+</li>
+<li><p>If a player chooses to take the discard cards, they must meet these requirements:</p>
+<ol>
+<li>The top card of the discard pile cannot be a black Three.</li>
+<li>Two cards in that player&#39;s hand must be of the same rank as the top card in the discard pile.</li>
+<li>The player must be able to immediately meld those two cards with the third in the pile.</li>
+</ol>
+</li>
+<li><p>If drawing from the stock, or when satisfying the discard requirements above, players are then free to create melds or add to melds in their team&#39;s space. If a player empties their hand through melding, they immediately pick up their foot and continue creating/adding to melds.</p>
+</li>
+<li><p>Melds are sets of three to seven cards of the same rank (suit doesn&#39;t matter). Before playing their first meld of a round, teams must be able to meet the minimum point requirements:</p>
+<ul>
+<li><p>Round 1: 50 points</p>
+</li>
+<li><p>Round 2: 90 points</p>
+</li>
+<li><p>Round 3: 120 points</p>
+</li>
+<li><p>Round 4: 150 points</p>
+</li>
+</ul>
+</li>
+<li><p>Cards are scored based on the following point values:</p>
+<ul>
+<li>Jokers: 50 points each</li>
+<li>Aces and 2: 20 points each</li>
+<li>8, 9, 10, Jack, Queen, King: 10 points each</li>
+<li>4, 5, 6, 7: 5 points each</li>
+<li>Black 3: 5 points each</li>
+</ul>
+</li>
+<li><p>Twos and Jokers are wild. They may be used to represent any card in a meld, provided the meld has at least twice as many non-wild cards as wild. (In practice, this means only melds of six or seven cards can have two wilds.) A meld may also be composed exclusively of wild cards.</p>
+</li>
+<li><p>When a meld reaches its maximum of seven cards, place it in the &quot;Completed Melds&quot; container. These are referred to as piles. If the pile is clean, make sure a red card is on top. If it&#39;s dirty, show a black card, and if it&#39;s wild, show a Two or Joker.</p>
+<ul>
+<li><p>Clean meld: All cards of the same rank with no wilds.</p>
+</li>
+<li><p>Dirty meld: A meld with one or two wild cards.</p>
+</li>
+<li><p>Wild meld: A meld composed of nothing but wild cards.</p>
+</li>
+</ul>
+</li>
+<li><p>Discard a card to the top of the pile to end your turn. If doing this empties your hand, pick up your foot and use it on your next turn.</p>
+</li>
+</ol>
+<h2 id="taking-a-turn">Taking a Turn</h2>
+<ol>
+<li>Place red Threes from your hand onto the side of your table and draw a replacement card.</li>
+<li>Either draw two cards from the stock or take the top seven cards from the discard pile.</li>
+<li>Create or add to existing melds on your team&#39;s table using cards in your hand.</li>
+<li>Discard a card to end your turn.</li>
+</ol>
+<h2 id="winning--scoring">Winning &amp; Scoring</h2>
+<ol>
+<li><p>To win the game, one member of a team must completely empty their hand and their foot. Their partner must also have played at least one turn from their foot and given their teammate permission to go out.</p>
+</li>
+<li><p>The team attempting to declare victory must have at least two dirty piles, two clean piles, and one wild pile.</p>
+</li>
+<li><p>When the above conditions are met, the winning team will meld all of their remaining cards before tallying the score.</p>
+</li>
+<li><p>Both teams receive points for melds on their side of the table. Use the scoring chart as above to tally these results.</p>
+</li>
+<li><p>Teams lose points for cards they still hold in their hand.</p>
+</li>
+<li><p>Bonus points are given to both teams based on the following conditions:</p>
+<ul>
+<li><p>Each complete wild pile: 1,500 points</p>
+</li>
+<li><p>Each complete clean pile: 500 points</p>
+</li>
+<li><p>Each complete dirty pile: 300 points</p>
+</li>
+<li><p>Going out bonus: 100 points</p>
+</li>
+<li><p>Each red Three on their side of the table: 100 points</p>
+</li>
+</ul>
+</li>
+<li><p>Another way of ending the hand is if the stock is depleted. If this happens, simply add points to each team&#39;s total based on their table melds, and subtract based on the cards left in their hand.</p>
+</li>
+<li><p>Once points are tallied, add the totals to each team&#39;s score counter.</p>
+</li>
+<li><p>Reshuffle all cards back into the deck. The person to the original dealer&#39;s left will deal new hands and feet and the second round will begin.</p>
+</li>
+<li><p>The game ends after four rounds. Whichever team has the highest score at that point wins.</p>
+</li>
+</ol>
+</div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="hand-and-foot">Start Game</button><button class="StartGameButton__create-bulk" data-template="hand-and-foot"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><p>Welcome!</p><p>PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed.</p><p>Create a room and share the room code to get started.</p></div><script async src="../build/bundle-web.js"></script></body></html>

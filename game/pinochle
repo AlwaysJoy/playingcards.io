@@ -1,0 +1,91 @@
+<!DOCTYPE html><html class="Web LandingPage" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>Pinochle · 4 Players · Play Free Online</title><meta property="og:title" content="Multiplayer Pinochle online on PlayingCards.io"><meta property="og:image" content="/img/landing/pinochle.png"><meta name="description" content="Bid, win tricks and outplay the other team in this strategic game for 4 players! Pinochle is a classic trick-taking game with unique auctions and scoring that set it apart from other trick-taking games. These rules are for the standard 4 player/2 team game."><meta property="og:description" content="Bid, win tricks and outplay the other team in this strategic game for 4 players! Pinochle is a classic trick-taking game with unique auctions and scoring that set it apart from other trick-taking games. These rules are for the standard 4 player/2 team game."><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="../docs/default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><div class="Web__section"><h1>Pinochle on PlayingCards.io</h1><img class="LandingPage__image" src="../img/landing/pinochle.png"><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="pinochle">Start Game</button><button class="StartGameButton__create-bulk" data-template="pinochle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="LandingPage__instructions"><p>Bid, win tricks and outplay the other team in this strategic game for 4 players! Pinochle is a classic trick-taking game with unique auctions and scoring that set it apart from other trick-taking games. These rules are for the standard 4 player/2 team game.</p>
+<h2 id="pinochle-rules">Pinochle Rules</h2>
+<h3 id="objective">Objective</h3>
+<ul>
+<li>In Pinochle, the goal is to be the first team to score 150 points via the meld and playing phases of the game.</li>
+</ul>
+<h3 id="set-up">Set-up</h3>
+<ol>
+<li>Pinochle uses a unique 48 card deck that consists of 2 sets of 9, 10, J, Q, K, A in each suit. This means there are no 2-8 cards and that there are two copies of 9-A in the deck for each suit.</li>
+<li>Players divide themselves into two teams and sit so that they are opposite of their teammate (EXAMPLE: Team 1 - Player 1, Team 2 - Player 2, Team 1 - Player 3, Team 2 - Player 4).</li>
+<li>.The deck is shuffled and each player is dealt 12 cards in sets of 3 cards at a time.</li>
+<li>If a player has five or more 9&#39;s in hand and no melds (explained below), the hand can be thrown back in with all other hands and cards re-dealt.</li>
+</ol>
+<h3 id="playing-the-game">Playing the Game</h3>
+<ul>
+<li><p>Cards in Pinochle are ranked from high to low as follows: A &gt; 10 &gt; K &gt; Q &gt; J &gt; 9. As with other trick-taking games, any card of the current trump suit will always beat any cards in other suits (EXAMPLE: K of Hearts would normally beat a 9 of Spades, but because Spades is the current trump suit, the 9 of Spades is higher).</p>
+</li>
+<li><p>Each round of the game is divided into 3 distinct phases: Auction, Meld and Playing.</p>
+<p><strong>Auction</strong></p>
+<ul>
+<li>The player left of the dealer has the opportunity to start the bidding or they may pass. Once a player passes, they are no longer able to bid.</li>
+<li>The first bid of the Auction phase must be a minimum of 20 points and each subsequent bid must be higher. When a player bids an amount, they are betting that their team will score at least that amount by the end of the round based on the cards in hand (EXAMPLE: P2 starts the bid with 20, P3 bids 21, P4 bids 23, P1 passes, P2 passes. Now bidding continues between P3 and P4 until one of them also passes).</li>
+<li>When three players pass, the winner of the Auction is the player who last bid and the amount they bid is the amount of points their team must score for the round or else they incur that amount in negative points and do not score anything for their melds and tricks. This called &quot;going set&quot; and is the risk the players take when bidding amounts during Auction.</li>
+<li>The winner of the Auction declares the trump suit for the round. This is the reward for winning the Auction despite the risk of possibly going set.</li>
+<li>The Auction winner&#39;s teammate then passes 3 cards from their hand to the winner (typically to help them form melds in the trump suit they decided on) and the Auction winner looks at the cards and passes 3 cards back from their hand.</li>
+</ul>
+<p><strong>Meld</strong></p>
+<ul>
+<li><p>Teams now score points for each of their &quot;melds&quot;. Melds are card combinations in hand worth a variety of points depending on the combination, suit, and trump suit.</p>
+</li>
+<li><p>The melds and their values are as follows:</p>
+<p>Run (trump suit only) - 15</p>
+<p>Marriage (K+Q of same suit that is trump) - 4</p>
+<p>Marriage (K+Q of same suit that is non-trump) - 2</p>
+<p>Nine (trump) - 1</p>
+<p>4 Aces (1 of each suit) - 10</p>
+<p>4 Kings (1 of each suit) - 8</p>
+<p>4 Queens (1 of each suit) - 6</p>
+<p>4 Jacks ( 1 of each suit) - 4</p>
+<p>Pinochle (Q of Spades + J of Diamonds) - 4</p>
+</li>
+<li><p>If a player has double of the following melds, the points score for those melds are as follows (though this is rare):</p>
+<p>2x Run (trump only) - 150</p>
+<p>8 Aces (2 of each suit) - 100</p>
+<p>8 Kings (2 of each suit) - 80</p>
+<p>8 Queens (2 of each suit) - 60</p>
+<p>8 Jacks (2 of each suit) - 40</p>
+<p>2x Pinochle (Q of Spades + Jack of Diamonds) - 30</p>
+</li>
+<li><p>Points are scored per team and players then play the next phase using these same hands of cards.</p>
+</li>
+</ul>
+<p><strong>Play</strong></p>
+<ul>
+<li>The Auction winner will start the trick-taking phase of the game by playing a card and play proceeds clockwise with each other player also playing one card.</li>
+<li>Each player must follow suit of the first card played, if possible. They must also play a higher ranking card, if possible. If they cannot follow suit, they must play a trump card. If they cannot follow suit or play a trump card, they can play any card.</li>
+<li>The winner of the trick is the player who played the highest ranking card (EXAMPLE: P4 won the Auction and decided Spades was trump. P4 plays an A of Spades. P1 plays a 9 of Spades. P2 plays a J of Spades. P3 cannot play Spades so they play a 9 of Diamonds. Because the 10 of Spades is the highest ranked card, P4 wins the trick).</li>
+<li>The winner of the trick always starts the next trick.</li>
+<li>If two players play the same card and that card would win the trick, the winner is the player who first played the card.</li>
+<li>After the last trick is won, points are scored from cards within the tricks, not for the number of tricks themselves. Each A, 10 and K is worth 1 point. The team who won the last trick also gains 1 extra point as well.</li>
+<li>Because 9, J and Q do not score during the Play phase, that leaves 24 possible points to be awarded + 1 extra point for last trick won for a total of 25 points between both teams.</li>
+</ul>
+</li>
+</ul>
+<h2 id="scoring">Scoring</h2>
+<ul>
+<li>After each round, points are tallied from the meld phase and the play phase.</li>
+<li>If the bidding team did not meet their bid via their points scored during the round, the bid amount is subtracted from their current score and they do not score any points for the round.</li>
+<li>If both teams reach over 150 points in the same round, the winning team is the bidding team regardless of whether or not they scored more points.</li>
+</ul>
+<h2 id="winning">Winning</h2>
+<p>The first team to 150 or more points wins the game!</p>
+</div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="pinochle">Start Game</button><button class="StartGameButton__create-bulk" data-template="pinochle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><p>Welcome!</p><p>PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed.</p><p>Create a room and share the room code to get started.</p></div><script async src="../build/bundle-web.js"></script></body></html>

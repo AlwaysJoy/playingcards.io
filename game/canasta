@@ -1,0 +1,94 @@
+<!DOCTYPE html><html class="Web LandingPage" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>Canasta · 4 Players · Play Free Online</title><meta property="og:title" content="Multiplayer Canasta online on PlayingCards.io"><meta property="og:image" content="/img/landing/canasta.png"><meta name="description" content="Win points by collaborating with your teammate to form card combinations in Canasta! Canasta is a unique set collection game for 4 players in which each player will collaborate with their teammate to be the first to 5000 points!"><meta property="og:description" content="Win points by collaborating with your teammate to form card combinations in Canasta! Canasta is a unique set collection game for 4 players in which each player will collaborate with their teammate to be the first to 5000 points!"><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="../docs/default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><div class="Web__section"><h1>Canasta on PlayingCards.io</h1><img class="LandingPage__image" src="../img/landing/canasta.png"><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="canasta">Start Game</button><button class="StartGameButton__create-bulk" data-template="canasta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="LandingPage__instructions"><p>Win points by collaborating with your teammate to form card combinations in Canasta! Canasta is a unique set collection game for 4 players in which each player will collaborate with their teammate to be the first to 5000 points!</p>
+<p><a href="../evolution-of-rummy-infographic">Check out our Rummy infographic</a></p>
+<h2 id="canasta-rules">Canasta Rules</h2>
+<h3 id="objective">Objective</h3>
+<ul>
+<li>In Canasta, the goal is to be the first team to score 5000 points via their card melds (sets of cards). Cards are scored according to their rank and quantity.</li>
+<li>To start a meld, a player must have at least three or more matching rank cards (EXAMPLE: P1 starts a meld by placing down three 9&#39;s).</li>
+<li>2&#39;s and Jokers are wild cards and may used to help start a meld or be added to an existing meld. However, a meld can never have more wild cards than cards of the actual rank (EXAMPLE: P1 can add Jokers and 2&#39;s to their meld of three 9&#39;s, but they cannot add any more than three Jokers and 2&#39;s because they only have three non-wild cards in the meld).</li>
+</ul>
+<h3 id="set-up">Set-up</h3>
+<ol>
+<li>Canasta uses two standard card decks + 4 jokers.</li>
+<li>Players divide themselves into two teams and sit so that they are opposite of their teammate (EXAMPLE: Team 1 - Player 1, Team 2 - Player 2, Team 1 - Player 3, Team 2 - Player 4).</li>
+<li>The deck is shuffled and each player is dealt 11 cards 1 card at a time.</li>
+<li>The remaining deck is placed in the middle and the top card is discarded to start the discard pile. If a red or black 3 is discarded, another card is discarded on top. If a wild card is discarded, it is placed sideways so that it sticks out horizontally from the discard pile and another card is discarded on top. *For PlayingCards.io, simply offset the wild card so that it is poking out of the discard pile.</li>
+</ol>
+<h3 id="playing-the-game">Playing the Game</h3>
+<ul>
+<li><p>The player left of the dealer starts the round.</p>
+</li>
+<li><p>The structure of a turn in Canasta is: draw, play cards, discard.</p>
+<p><strong>Draw</strong></p>
+<ul>
+<li>Before a player draws, they must play each red 3 from their hand and replace them with cards drawn from the deck. Any red 3&#39;s that are ever drawn are immediately played into a new or existing meld and the card is replaced with one from the deck.</li>
+<li>On their turn, a player may draw the card from the top of the discard pile if they are able to add the card to one of their team&#39;s melds or if they can use the card to create a new meld. If they cannot/do not want to do either, they must draw their card from the top of the deck instead.</li>
+<li>When a player is able to draw from the discard pile, they add the entire discard pile to their hand (but they must be able to use the top card to create a meld or add to a meld).</li>
+<li>If the top card of the discard pile is a black 3, the discard pile is blocked from drawing from and the player must draw from the deck.</li>
+<li>If there is a wild card in the discard pile (sticking out horizontally), a player may only draw from the discard pile if they can make a natural meld using the top card (no wilds).</li>
+</ul>
+<p><strong>Play</strong></p>
+<ul>
+<li><p>After drawing from either the discard pile or deck, a player may start new melds (three or more cards of the same rank) from their hand or add to existing melds shared with their teammate. Remember that 2&#39;s and Jokers are wild but there can never be more wild cards than non-wild cards in a meld.</p>
+</li>
+<li><p>The first meld each player starts each round must have a minimum value depending on their team&#39;s current score (red 3&#39;s do not count as melds as they are played automatically). The minimum first meld values are as follows:</p>
+<p>0-1499: 50</p>
+<p>1500-2999: 90</p>
+<p>3000+: 120</p>
+</li>
+<li><p>Black 3&#39;s may only be melded if a player is &quot;going out&quot; at the end of their turn (see below).</p>
+</li>
+</ul>
+<p><strong>Discard</strong></p>
+<ul>
+<li>After playing melds or adding to their team&#39;s melds, a player must discard 1 card from their hand.</li>
+<li>If a wild card is discarded, it is discarded horizontally from the discard pile to signal that the discard pile is &quot;frozen&quot;. A player may now only draw from the discard pile if they can make a natural meld (no wilds) using the top card of the discard pile.</li>
+</ul>
+<p><strong>Going Out</strong></p>
+<p>A round ends when one player &quot;goes out&quot;, meaning they end their turn with no cards in hand. A player may only go out if their team has at least one Canasta (meld of 7+ cards) among their melds.</p>
+</li>
+</ul>
+<h2 id="scoring">Scoring</h2>
+<ul>
+<li><p>Canasta has several areas where teams can earn points. Points are earned from card values among a team&#39;s melds, from Canastas, red 3&#39;s and from going out to end a round.</p>
+</li>
+<li><p>Card Values (each card in a meld has the following value):</p>
+<p>Aces: 20</p>
+<p>8, 9, 10, J, Q, K: 10</p>
+<p>4, 5, 6, 7: 5</p>
+<p>2: 20</p>
+<p>Joker: 50</p>
+<p>Black 3: 5</p>
+</li>
+<li><p>When scoring melds, a team adds each of their meld&#39;s card values and then subtracts the values from any cards left in their hands.</p>
+</li>
+<li><p>Canastas are melds of 7+ cards and on top of their individual card values, they score an additional 500 points if they are no wilds and 300 points if wilds were used.</p>
+</li>
+<li><p>Each red 3 a team has is worth 100 points and if a team has all four red 3&#39;s, they are worth 800 points.</p>
+</li>
+<li><p>The team whose player went out to end the round scores an additional 100 points that round.</p>
+</li>
+<li><p>Score is kept round to round and each round teams will score for: Values from melds - values from cards in hand, Canasta bonuses, red 3&#39;s and going out.</p>
+</li>
+</ul>
+<h2 id="winning">Winning</h2>
+<p>The first team to 5000 or more points wins the game!</p>
+</div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="canasta">Start Game</button><button class="StartGameButton__create-bulk" data-template="canasta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><p>Welcome!</p><p>PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed.</p><p>Create a room and share the room code to get started.</p></div><script async src="../build/bundle-web.js"></script></body></html>

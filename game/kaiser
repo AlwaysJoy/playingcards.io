@@ -1,0 +1,68 @@
+<!DOCTYPE html><html class="Web LandingPage" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>Kaiser · 4 Players · Play Free Online</title><meta property="og:title" content="Multiplayer Kaiser online on PlayingCards.io"><meta property="og:image" content="/img/landing/kaiser.png"><meta name="description" content="Partner up with a teammate and go head to head against another team in the classic 4 player Canadian trick-taking game, Kaiser!"><meta property="og:description" content="Partner up with a teammate and go head to head against another team in the classic 4 player Canadian trick-taking game, Kaiser!"><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="../docs/default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><div class="Web__section"><h1>Kaiser on PlayingCards.io</h1><img class="LandingPage__image" src="../img/landing/kaiser.png"><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="kaiser">Start Game</button><button class="StartGameButton__create-bulk" data-template="kaiser"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="LandingPage__instructions"><p>Partner up with a teammate and go head to head against another team in the classic 4 player Canadian trick-taking game, Kaiser!</p>
+<h2 id="kaiser-rules">Kaiser Rules</h2>
+<h3 id="objective">Objective</h3>
+<ul>
+<li>In Kaiser, the goal is to reach 52 or more points to win! This is a trick-taking game and each trick is worth 1 point. If a trick contains the 5 of Hearts, the trick gets +5 points and if a trick contains a 3 of Spades, the trick gets -3 points.</li>
+</ul>
+<h3 id="set-up">Set-up</h3>
+<ol>
+<li>Kaiser uses a 32 card deck of 7 through Ace, but the 7 of Spades is replaced with the 3 of Spades and the 7 of Hearts is replaced with the 5 of Hearts.</li>
+<li>Players divide themselves into two teams and sit so that they are opposite of their teammate (EXAMPLE: Team 1 - Player 1, Team 2 - Player 2, Team 1 - Player 3, Team 2 - Player 4).</li>
+<li>The deck is shuffled and each player is dealt eight cards, one card at a time (for each subsequent round, the dealer will be the player left of the previous dealer).</li>
+<li>If a player is dealt no aces, no face cards and no 3 or 5, the hand can be thrown back in with all other hands and cards re-dealt.</li>
+</ol>
+<h3 id="playing-the-game">Playing the Game</h3>
+<ul>
+<li><p>Cards in Kaiser are ranked from high to low as follows: A &gt; K &gt; Q &gt; J &gt; 10 &gt; 9 &gt; 8 &gt; 7 or 5 or 3. As with other trick-taking games, any card of the current trump suit (if there is a trump suit) will always beat any cards in other suits (EXAMPLE: K of Hearts would normally beat a 9 of Spades, but because Spades is the current trump suit, the 9 of Spades is higher).</p>
+</li>
+<li><p>Each round of the game is divided into two distinct phases: Bidding and Playing.</p>
+<p><strong>Auction</strong></p>
+<ul>
+<li>In Kaiser, players start a round by bidding to see who, if anyone, decides the trump suit. When bidding, a player is saying that their team will get at least X points by the round&#39;s end. There are two kinds of bids: bids with trump suit and bids without (no). The bids range from 6-12 and the no trump bids will always beat the trump bids of equal number. So, the possible bids in order of lowest to highest are: 6, 6 no, 7, 7 no, 8, 8 no, 9, 9 no, 10, 10 no, 11, 11 no, 12, 12 no.</li>
+<li>The player left of the dealer has the opportunity to start the bidding or they may pass. Once a player passes, they are no longer able to bid.</li>
+<li>The first bid of the Auction phase must be a minimum of 6 and each subsequent bid must be higher. When a player bids an amount, they are betting that their team will score at least that amount by the end of the round based on the cards in hand (EXAMPLE: P2 starts the bid with 6, P3 bids 6 no, P4 bids 8, P1 passes, P2 passes. Now bidding continues between P3 and P4 until one of them also passes or reaches the maximum bid).</li>
+<li>The dealer has the special ability that when bidding, they only need to match the current highest bid. They do not need to beat it to be the current highest bid.</li>
+<li>When the winner of the auction is determined by either a winning bid or the maximum bid (12 no), the player decides the trump suit for the round if the winning bid was a trump suit bid (10, for example). If the winning bid was not a trump suit bid (10 no, for example), there will be no trump suit for the round. *For PlayingCards.io, the game has suit tokens to show the round&#39;s trump suit, if any. If a player has a winning trump suit bid, that play takes the trump suit token they&#39;d like and puts it next to their player name.</li>
+<li>If the bid-winning team does not meet the winning bid in points at the end of the round, they will not score points for the round and instead will score negative points. The negative amount will depend on whether the winning bid was a trump or no trump bid. This is the risk a team take when trying to win the auction.</li>
+</ul>
+<p><strong>Play</strong></p>
+<ul>
+<li>The winner of the Auction plays the first card into the trick. Each subsequent player in clockwise rotation must play a card of the same suit as the first card played if they&#39;re able to. If unable, they may play any card.</li>
+<li>If any trumps are played, the highest trump card wins the trick. If no trump cards are in the trick, the trick is won by the highest card of the suit led by the Auction winner. The winner of the trick starts the next trick.</li>
+<li>When all cards have been played (8 rounds), tricks are scored.</li>
+<li>If two players play the same card and that card would win the trick, the winner is the player who first played the card.</li>
+</ul>
+</li>
+</ul>
+<h2 id="scoring">Scoring</h2>
+<ul>
+<li>After each round, points are scored from the bid, the number of tricks taken, and from the 5 of Hearts and 3 of Spades.</li>
+<li>Each trick is worth 1 point.</li>
+<li>5 of Hearts is worth an additional 5 points.</li>
+<li>3 of Spades is worth -3 points.</li>
+<li>If the bid winning team won the Auction with a trump bid, they either score their round&#39;s points if they met the bid amount or they subtract the bid amount from their current score if their points did not meet the bid amount for the round (they do not score any positive points).</li>
+<li>If the bid winning team won the Auction with a no trump bid, they either score double their round&#39;s points if they met the bid amount or the subtract double the bid amount from their current score if their points did not meet the bid amount for the round (again, no positive points are scored).</li>
+<li>If the bid losing team had less than 45 points at the start of the round, they will score for the tricks they took.</li>
+<li>If the bid losing team had 45 or more points at the start of the round, they cannot score any positive points for the round, but they may still score -3 points if their tricks include the 3 of Spades.</li>
+</ul>
+<h2 id="winning">Winning</h2>
+<p>The first team to 52 or more points wins the game!</p>
+</div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="kaiser">Start Game</button><button class="StartGameButton__create-bulk" data-template="kaiser"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><p>Welcome!</p><p>PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed.</p><p>Create a room and share the room code to get started.</p></div><script async src="../build/bundle-web.js"></script></body></html>

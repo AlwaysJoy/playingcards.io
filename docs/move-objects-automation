@@ -1,0 +1,81 @@
+<!DOCTYPE html><html class="Web DocsPage" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>PlayingCards.io Documentation</title><meta property="og:title" content="PlayingCards.io Documentation"><meta name="description" content="Play any tabletop game online with friends. PlayingCards.io Multiplayer Virtual Card Table"><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="../game/standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><section class="Web__section"><a class="DocsPage__back" href="default.htm">Back to documentation</a></section><section class="Web__section-fill"><p><a href="automation-buttons">← Automations Overview</a></p>
+<h2 id="automation-move-objects">Automation: Move Objects</h2>
+<p>Move and rotate cards, pieces, and dice between holders and/or player hands.</p>
+<p><video class="DocsPage__media-large" src="media/automation-button.mp4" autoplay muted loop controls></video></p>
+<h3 id="objects-to-move">Objects to Move</h3>
+<p><em>Specify which objects should be moved.</em></p>
+<p>Click <code>Holders / Player Seats...</code> to enter selection mode, objects in selected Holders / Player Seats will be used. Optionally, use the <code>Select Collections...</code> button to choose Collections to limit which types of objects will be selected.</p>
+<p>Use the <img src="media/reference-dropdown-search.png" class="DocsPage__inline-icon"> button to allow players to choose specific objects from a list with an <a href="automation-buttons#popup">Automation Question</a>.</p>
+<p>To move objects directly from Player Hands, select the Player Seats for each player. Note: not all rooms have Player Seats but they can be added. <a href="player-seats">More Details Here</a></p>
+<h3 id="to-holders--player-seats">To Holders / Player Seats</h3>
+<p><em>Specify where objects should move.</em></p>
+<p>Click <code>Holders / Player Seats...</code> to enter selection mode, cards will be moved to selected Holders and Player Seats.</p>
+<p>To move objects directly to Player Hands, select the <a href="player-seats">Player Seats</a>
+ for each player.</p>
+<h3 id="number-of-objects-to-each">Number of Objects To Each</h3>
+<p><em>How many cards/pieces to move to <strong>each</strong> Holder / Player Seat.</em></p>
+<p>To deal entire card pile out, set the number to anything larger than the number of objects e.g. 1000.</p>
+<p>Use the <img src="media/reference-dropdown-number.png" class="DocsPage__inline-icon"> button to use a number from a Counter widget, or to allow players to change this number with an <a href="automation-buttons#popup">Automation Question</a>.</p>
+<h3 id="add-or-fill-to">Add or Fill-To</h3>
+<p><em>Set a maximum number of cards to be put in the To Holders / Player Seats.</em></p>
+<p>Ideal for games where you &quot;Draw to 8&quot; cards, for example.</p>
+<p><code>Add</code> mode will simply move objects to chosen holders each time the automation is run.</p>
+<p><code>Fill-to</code> mode will stop adding cards when each holder contains the number of cards/pieces specified in the Number of Objects To Each setting.</p>
+<h3 id="to-location">To Location</h3>
+<p><em>Where to place the cards in the To Holders / Player Seats</em></p>
+<ul>
+<li><code>Bottom of pile</code> will move cards to the bottom of a stack, or the beginning of spread <a href="holders">holders</a>. For multi-group Spread holders, objects will be added to the first group.</li>
+<li><code>Top of pile</code> will move cards to the top of a stack, or the end of spread <a href="holders">holders</a>. For multi-group Spread holders, objects will be added to the last group.</li>
+<li><code>Group at start</code> will move cards to a new group before other spread groups. Or to the start of non-multi-group Spread holders.</li>
+<li><code>Group at end</code> will move cards to a new group after other spread groups. Or to the end of non-multi-group Spread holders.</li>
+</ul>
+<h3 id="move-order">Move Order</h3>
+<p><em>Change the order the cards are dealt, when dealing to multiple holders.</em></p>
+<p><code>Deal one-by-one</code> will go through the <code>To Holders</code> giving each one card, then repeat.
+Dealing number cards 1-9 to 3 holders would result with: 147 258 369</p>
+<p><code>Move as pile</code> will go through the <code>To Holders</code> giving each holder all the necessary cards at once.
+Dealing number cards 1-9 to 3 holders would result with: 123 456 789</p>
+<h3 id="starting-holder-offset">Starting Holder Offset</h3>
+<p><em>Choose which of the selected holders are moved to first</em></p>
+<p>This can be used to rotate who gets dealt the first card.</p>
+<p>Example: Dealing number cards 1-7 to 3 holders:</p>
+<ul>
+<li>When set to <code>0</code>: 147 25 36</li>
+<li>When set to <code>1</code>: 36 147 25</li>
+<li>When set to <code>2</code>: 25 36 147</li>
+<li>When set to <code>3</code>: 147 25 36 (same as <code>0</code>)</li>
+<li>When set to <code>4</code>: 36 147 25 (same as <code>1</code>)</li>
+<li>Etc.</li>
+</ul>
+<p>Use the <img src="media/reference-dropdown-search.png" class="DocsPage__inline-icon"> button to connect this to a counter. Adding 1 to the counter after each deal will rotate who gets dealt the first card.</p>
+<h3 id="flip-cards">Flip Cards</h3>
+<p><em>Flip cards face-up or face-down when moving them.</em></p>
+<p>Determines if moved cards should be flipped face-up, face-down, or kept as-is.</p>
+<h3 id="rotation">Rotation</h3>
+<p><em>Change the rotation of objects when moving them.</em></p>
+<ul>
+<li><code>Keep as-is</code> keeps the object rotation exactly as they are.</li>
+<li><code>Fit to holder</code> will upright each object that doesn&#39;t fit into the holder containing that object. e.g. A rectangular card that is upside-down will remain at 180 degrees. A card rotated 45 degrees in a non-rotated holder will be uprighted. A square card (width = height) rotated 90 degrees will remain at 90 degrees.</li>
+<li><code>Counterclockwise</code> and <code>Clockwise</code> will rotate objects one &quot;step&quot; to the left or right, relative to the current rotation of the object. The steps are specified on <a href="card-rotation">the card deck</a>.</li>
+<li><code>Randomize</code> will set the rotation to a random angle, from the angles specified on <a href="card-rotation">the card deck</a>.</li>
+<li><code>Set To...</code> disregards the current rotation and sets cards to the specified rotation.</li>
+</ul>
+</section><section class="Web__section"><div><h4>Confused? Drop us a message at rob@playingcards.io We appreciate all feedback.</h4></div></section><div class="SiteLinks"><a href="../press">Press</a> · <a href="../terms-of-service" target="_blank">Terms of Service</a> · <a href="../privacy-policy" target="_blank">Privacy Policy</a> · <a href="../licenses">Licenses</a></div><script src="../build/bundle-web.js"></script></body></html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html><html class="Web LandingPage" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>Zap: Space Mutiny · 4-8 Players · Play Free Online</title><meta property="og:title" content="Multiplayer Zap: Space Mutiny online on PlayingCards.io"><meta property="og:image" content="/img/landing/zap.png"><meta name="description" content="Zap is a sci-fi game of hidden identities. Each player will have 1 Hidden Identity, 1 Skill, a hand of 3-5 action cards (Purple deck labeled Zap) and hearts which represent health. Each Hidden Identity has a unique goal; eliminate your enemies by reducing their hearts to zero and your team wins. Compare to BANG!™ card game published by DV Giochi / Mayfair Games."><meta property="og:description" content="Zap is a sci-fi game of hidden identities. Each player will have 1 Hidden Identity, 1 Skill, a hand of 3-5 action cards (Purple deck labeled Zap) and hearts which represent health. Each Hidden Identity has a unique goal; eliminate your enemies by reducing their hearts to zero and your team wins. Compare to BANG!™ card game published by DV Giochi / Mayfair Games."><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="../docs/default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><div class="Web__section"><h1>Zap: Space Mutiny on PlayingCards.io</h1><img class="LandingPage__image" src="../img/landing/zap.png"><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="zap">Start Game</button><button class="StartGameButton__create-bulk" data-template="zap"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="LandingPage__instructions"><p>Zap is a sci-fi game of hidden identities. Each player will have 1 Hidden Identity, 1 Skill, a hand of 3-5 action cards (Purple deck labeled Zap) and hearts which represent health. Each Hidden Identity has a unique goal; eliminate your enemies by reducing their hearts to zero and your team wins. Compare to BANG!™ card game published by DV Giochi / Mayfair Games.</p>
+<p>4-8 players</p>
+<img src="../img/zap/zap_hiddenidentity.jpg">
+
+<h2 id="setup">Setup</h2>
+<ol>
+<li>Create a Hidden Identity deck with 1 card per player. Hit the toolbox button in the sidebar. Select the deck with 8 items and choose Edit Deck. For cards that aren&#39;t needed, set their quantity to zero. Close edit mode. On the Hidden Identity deck, click the number tab and choose shuffle.</li>
+<li>Each player draws one Hidden Identity card. The Commander reveals their identity and places the purple token by their heart counter. Keep your identity card in hand and do not reveal it unless you die.</li>
+<li>Each player draws 2 Skill cards. Choose 1 card. This is your special ability which modifies the game rules for you. Below your &quot;Player Name&quot; place the unselected skill first, then your selected skill on top.</li>
+<li>Set your heart counter to the number of hearts shown on your Skill card. The Commander gets +1 heart. This is your max hearts for the game. When ending your turn, your hand limit will be however many hearts you have remaining.</li>
+<li>Each player draws from the deck to their hand (bottom row on the screen) cards equal to their max hearts.</li>
+</ol>
+<img src="../img/zap/zap_setup.jpg">
+
+<h2 id="turn">Turn</h2>
+<ul>
+<li>Draw 2 cards</li>
+<li>Play as many cards as you like (but only 1 Zap)</li>
+<li>At the end of your turn, discard down to your hand limit. Example: if you have 2 hearts remaining, your hand limit is 2 cards.</li>
+</ul>
+<h2 id="card-colors">Card Colors</h2>
+<ul>
+<li>Cyan cards are played to the table beside your Skill and stay in play until removed.</li>
+<li>Pink cards are offensive. They remove hearts or attack other players, then are discarded.</li>
+<li>Navy cards help you avoid damage, regain hearts or draw cards. They are discarded after use.</li>
+<li>Purple cards affect other players. They are discarded once they are resolved.</li>
+</ul>
+<img src="../img/zap/zap_cardcolors.jpg">
+
+<h2 id="terms">Terms</h2>
+<p><strong>Reach</strong>: Some cards require you to reach a player to use the card&#39;s effect on them. The players seated to your left &amp; right around the virtual table are 1 space away, the player beyond your neighbor is 2 spaces away from you.</p>
+<p>You always have a reach of 1. You may Zap players beside you. For example, Player 1 may Zap players 2 or 8. Bionic Eye and Bionic Leg affect reach when using or avoiding a Zap, Kick, or Tractor Beam. Cyan weapons extend your reach for Zaps only. When a player is killed, move their Skill card aside. Their spot is no longer counted; only living players are counted when measuring reach.</p>
+<img src="../img/zap/zap_reach.jpg">
+
+<p><strong>Flip</strong>:** **Some cards have an outcome based on chance. Flip the top card from the draw pile into the discard. Check the lower right corner for a yellow symbol (star or radioactive), then follow the card instructions. If you begin your turn with Supernova and Containment on you, flip for Supernova first, followed by Containment, then take your turn.</p>
+<p><strong>IF you discard</strong>: Special cards require you to first discard a card from your hand in order to take the action. These cards are: Laser Drone, Moonrise, Sidekick, Black Hole.</p>
+<p><strong>Out of Turn Play</strong>: Any time you are attacked, you have a chance at playing a card out of turn. You may flip for a Shield, reply with a Dud, etc. If you are about to lose your last heart, you may discard a Cosmonaut to retain that heart.</p>
+<h2 id="events">Events</h2>
+<p><strong>When a player dies</strong>, they reveal their Hidden Identity. If an Alien was killed, the player who actively used a Zap, Kick, Laser Drone or Face Off to defeat them may draw a 3 card reward. Passive attacks of Supernova, Solar Flare or Asteroid Field do not give a reward. If the Commander has killed a Human, there is a penalty. The Commander must discard her hand and all her Cyan cards on the table (except any Supernova played on her).</p>
+<p><strong>When the deck runs out</strong>, reshuffle by using the number tab to flip the stack, shuffle the stack, and then drag the stack back to the draw pile.</p>
+<p><strong>When only 2 players remain</strong>, Cosmonaut cards immediately have no effect. Moonrise, Sidekick and Space Bar may still be used.</p>
+<h2 id="orbit">Orbit</h2>
+<p>This optional deck lets you add variation to your game. Begin on the Commander&#39;s second turn. Before drawing, the Commander reveals an Orbit card which changes the rules until the Commander&#39;s next turn. When the Orbit deck runs out all players will lose 1 heart.</p>
+<h2 id="game-end">Game End</h2>
+<p>The game ends instantly when one team achieves its hidden goal. The Alien&#39;s goal is to kill the Commander. The Commander&#39;s and Human&#39;s goal is to kill the Android and the Aliens. The Android&#39;s goal is to keep the Commander alive while all other players are killed. When the Android and the Commander are the last two players alive, the Android can defeat the Commander to win.</p>
+<h2 id="additional-description-of-cards">Additional description of cards</h2>
+<img src="../img/zap/zap_additionaldescription.jpg">
+
+<p><strong>Tractor Beam</strong> allows you to take a card from another player whom you can reach. You may pick a cyan card they have in play (including a Supernova) or a random card from their hand. The stolen card goes into your hand and may be played immediately.</p>
+<p>Taking a random card:</p>
+<p>A: Commander, how many cards do you have in your hand?</p>
+<p>B: I have 4</p>
+<p>A: I&#39;ll take the 3rd from the left</p>
+<p>(B flips 3rd card face down in their hand, then places it on the table for player A to take)</p>
+<p><strong>Black Hole</strong> acts like a Vaporize card which affects every player. To activate this card&#39;s ability, discard a card from your hand. Starting with the player on your left, you select 1 of their cards from the table or a random card from their hand. Cards are placed in the discard pile.</p>
+<p>Taking a random card:</p>
+<p>A: Commander, how many cards do you have in your hand?</p>
+<p>B: I have 4</p>
+<p>A: I&#39;ll take the 3rd from the left</p>
+<p>(B discards 3rd card)</p>
+<p><strong>Supply Raid</strong> gives each player 1 card. From the deck lay out 1 face up card for each alive player. You chose one to put in your hand. The player to your left picks next. Repeat until all cards are taken.</p>
+<p><strong>Face Off</strong> allows you to challenge someone at any reach. They may discard a Zap, then you may discard a Zap. Repeat. The first person unable or unwilling to discard loses 1 heart.</p>
+<p><strong>Supernova</strong> is played on yourself. Before the start of your following turn, you will flip to see if it explodes. If you flip a yellow radioactive symbol you lose 3 hearts. Otherwise, you pass the card to the player on your left. They will flip before the start of their turn. A player who dies from Supernova is not killed by any specific player.</p>
+<p>*<em>Containment *</em>is played on another player. Before their turn begins they must flip a card. If they reveal a star, they discard Containment and continue their turn normally. Otherwise, they lose 1 turn and immediately discard the Containment card.</p>
+<p><strong>Bionic Eye</strong> makes others easier for you to reach when you play a Zap, Kick or Tractor Beam. In addition to reaching the player beside you, you can also reach their neighbor. Your opponent&#39;s reach is not affected. You may only have 1 Bionic Eye on the table in front of you.</p>
+<p><strong>Bionic Leg</strong> makes it harder for other players to reach you. Your immediate neighbor may not use Laser Katana, Kick or Tractor Beam against you unless they have a Bionic Eye. Your ability to reach others is not affected. You may only have 1 Bionic Leg on the table in front of you.</p>
+<h2 id="thank-you">Thank You</h2>
+<p>Graphic design, concept, title &amp; card text &quot;Zap: Space Mutiny&quot; by Katherine Inouye Lau is licensed under CC BY-NC-SA 3.0. Thank you Katherine!</p>
+<p>Katherine Inouye Lau is the licensee of the illustrations in &quot;Zap: Space Mutiny&quot;</p>
+<p>BANG!™ is a registered trademark of daVinci Editrice Srl.</p>
+</div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="zap">Start Game</button><button class="StartGameButton__create-bulk" data-template="zap"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><p>Welcome!</p><p>PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed.</p><p>Create a room and share the room code to get started.</p></div><script async src="../build/bundle-web.js"></script></body></html>

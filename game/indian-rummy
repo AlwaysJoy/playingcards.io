@@ -1,0 +1,70 @@
+<!DOCTYPE html><html class="Web LandingPage" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>Indian Rummy · 2-6 Players · Play Free Online</title><meta property="og:title" content="Multiplayer Indian Rummy online on PlayingCards.io"><meta property="og:image" content="/img/landing/indian-rummy.png"><meta name="description" content="Be the first to get rid of your hand in this fun version of rummy, Indian Rummy! Indian Rummy is a hand management game for 2-6 players. Also known as Paplu."><meta property="og:description" content="Be the first to get rid of your hand in this fun version of rummy, Indian Rummy! Indian Rummy is a hand management game for 2-6 players. Also known as Paplu."><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="../docs/default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><div class="Web__section"><h1>Indian Rummy on PlayingCards.io</h1><img class="LandingPage__image" src="../img/landing/indian-rummy.png"><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="indian-rummy">Start Game</button><button class="StartGameButton__create-bulk" data-template="indian-rummy"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="LandingPage__instructions"><p>Be the first to get rid of your hand in this fun version of rummy, Indian Rummy! Indian Rummy is a hand management game for 2-6 players. Also known as Paplu.</p>
+<h2 id="indian-rummy-rules">Indian Rummy Rules</h2>
+<h3 id="objective">Objective</h3>
+<ul>
+<li>In Indian Rummy, the ultimate objective is to score the most points after all players have had a turn as dealer.</li>
+<li>The objective each round is to &quot;go rummy&quot; with cards by forming &quot;sets&quot; and &quot;runs&quot; within your hand. A set is a group of 3 or more cards containing cards of same rank, different suit (EXAMPLE: A set might include a 4 Hearts, 4 Clubs and a 4 Diamonds). A run is a group of 3 or more consecutive cards in the same suit (EXAMPLE: A run might include a 6 Hearts, Joker, 8 Hearts - In this example, a wild Joker is being used in lieu of a 7 Hearts). A set cannot contain cards of the same rank and suit, only same rank different suit.</li>
+<li>A player &quot;goes rummy&quot; and ends the round when their entire 13 card hand includes sets and runs. However, a player can only go rummy if their hand contains at least one natural run (a run containing no wilds) as well as a second run, natural or not. The remaining cards can be runs or sets, natural or not.</li>
+<li>Only the player who goes rummy each round will score points.</li>
+<li>*These rules do not include the rules for &quot;packing&quot; as packing is generally only used for games of Indian Rummy involving money.</li>
+</ul>
+<h3 id="set-up">Set-up</h3>
+<ol>
+<li>Rummy uses 2 standard 52 card decks + 2 jokers. Shuffle all cards together and flip over the top card of the deck. This card will determine the wild card for the round (EXAMPLE: If the card discard is a 9 of Hearts, all 9s of any suit for the round are wild). Jokers are always wild in addition to the round&#39;s wild card.</li>
+<li>Place the wild card beneath the deck sideways and face up to indicate that it is the wild card (it will not be in play for the round). *For PlayingCards.io, there is a card holder next to the deck for the round&#39;s wild card.</li>
+<li>The dealer deals each player 13 cards.</li>
+<li>The top card of the deck is flipped over to start the discard pile.</li>
+<li>Players organize their hands to better prepare for sets and runs.</li>
+</ol>
+<h3 id="playing-the-game">Playing the Game</h3>
+<ul>
+<li><p>Cards are ranked high to low as normal: A &gt; 2.</p>
+</li>
+<li><p>Starting with the player left of the dealer, each player will take a turn in clockwise order.</p>
+</li>
+<li><p>On a player&#39;s turn, they must either draw from the top of the deck or the top of the discard pile.</p>
+</li>
+<li><p>After a player draws, they then must discard a card from their hand (this may be the card the player had just drawn). Play proceeds clockwise.</p>
+</li>
+<li><p>If the draw deck ever runs out, leave the top card of the discard pile and shuffle the rest of the discard pile to form a new draw deck (leave the wild card at the bottom where it is).</p>
+</li>
+<li><p>The round ends when a player goes rummy (their entire hand includes sets and runs). Remember that a player can only go rummy if their hand contains at least one natural run (a run containing no wilds) as well as a second run, natural or not.</p>
+</li>
+<li><p>When a player goes rummy, they announce &quot;rummy!&quot;, discard their card per usual and lay down their hand to show the other players.</p>
+</li>
+<li><p>The round ends and score is calculated.</p>
+</li>
+<li><p>When starting a new round, the dealer is the player left of the previous round&#39;s dealer.</p>
+</li>
+</ul>
+<h2 id="scoring">Scoring</h2>
+<ul>
+<li>After each round, points are awarded only to the player who went rummy.</li>
+<li>The player who went rummy scores points for each card remaining in all other players&#39; hands.</li>
+<li>Cards remaining in other players hands have the following point values: 2-9 = Face Value (EXAMPLE: 5 of Hearts is worth 5 points) 10/J/K/Q are each worth 10 points, Aces are worth 11 and wilds are worth 0.</li>
+<li>If a player has a natural run, those cards are removed and the player who went rummy gets points for all other cards in their hand.</li>
+<li>If a player has a natural run and a second run, those cards as well as any other cards that are part of a set or a run are removed and only remaining cards in their hand are scored.</li>
+<li>Players keep tally of their scores from round to round.</li>
+<li>*To save on table space in PlayingCards.io, score and discard each non-winning player&#39;s hand one at a time.</li>
+</ul>
+<h2 id="winning">Winning</h2>
+<p>After all players have had a turn to be dealer, the winner is the player with the most points.</p>
+</div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="indian-rummy">Start Game</button><button class="StartGameButton__create-bulk" data-template="indian-rummy"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><p>Welcome!</p><p>PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed.</p><p>Create a room and share the room code to get started.</p></div><script async src="../build/bundle-web.js"></script></body></html>

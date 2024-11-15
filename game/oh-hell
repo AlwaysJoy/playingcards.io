@@ -1,0 +1,67 @@
+<!DOCTYPE html><html class="Web LandingPage" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>Oh Hell! · 3-7 Players · Play Free Online</title><meta property="og:title" content="Multiplayer Oh Hell! online on PlayingCards.io"><meta property="og:image" content="/img/landing/oh-hell.png"><meta name="description" content="Oh Hell! is a fast-paced and easy to learn trick taking card game with countless variations and endless replayability. The rules are fairly simple, but because there's an element of prediction and bidding, games can take wild turns between rounds."><meta property="og:description" content="Oh Hell! is a fast-paced and easy to learn trick taking card game with countless variations and endless replayability. The rules are fairly simple, but because there's an element of prediction and bidding, games can take wild turns between rounds."><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="../docs/default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><div class="Web__section"><h1>Oh Hell! on PlayingCards.io</h1><img class="LandingPage__image" src="../img/landing/oh-hell.png"><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="oh-hell">Start Game</button><button class="StartGameButton__create-bulk" data-template="oh-hell"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="LandingPage__instructions"><p>Oh Hell! is a fast-paced and easy to learn trick taking card game with countless variations and endless replayability. The rules are fairly simple, but because there&#39;s an element of prediction and bidding, games can take wild turns between rounds.</p>
+<p>Oh Hell! is also known as Oh Well!, Blob, Blackout, and Up and Down the River.</p>
+<h2 id="oh-hell-rules">Oh Hell! Rules</h2>
+<h3 id="objective">Objective</h3>
+<ul>
+<li>The goal of Oh Hell! is for a player to estimate how many tricks they&#39;ll take with each hand, then try to win precisely that number of tricks.</li>
+<li>Players can employ a surprising amount of strategy in each trick round by listening to other bids and purposefully laying down cards that cause other players to lose.</li>
+<li>Huge points bonuses are awarded to players who accurately predict their number of winning tricks.</li>
+</ul>
+<h3 id="set-up">Set Up</h3>
+<ol>
+<li>Oh Hell! is played with one deck of 52 standard cards (no Jokers). Anywhere between 3-7 players may play, though 4-6 players are recommended.</li>
+<li>Choose a dealer and shuffle the deck. The size of the first hand depends on the number of players in the game:<ol>
+<li>3, 4, or 5 players: 10 cards in the first hand</li>
+<li>6 players: 8 cards in the first hand</li>
+<li>7 players: 7 cards in the first hand</li>
+</ol>
+</li>
+<li>Turn over the top card of the stock. This card&#39;s suit becomes the trump suit for the hand. Trump suits beat any of the other suits, regardless of their rank.</li>
+<li>Starting with the next number player and proceeding in a sequence, each person places a bid. Bids are a prediction as to how many tricks that player thinks they can take in the round. Players must make a bid, even if that bid is zero.</li>
+</ol>
+<h3 id="playing-the-game">Playing the Game</h3>
+<ol>
+<li>The first person who bid begins by placing a card into the center of the table. It may be any suit, including the trump suit. The first card placed in any trick is called the lead card.</li>
+<li>The next player then places a card. If they can, they must place a card of the same suit as the lead card. If they cannot, any suit will suffice.</li>
+<li>Once all players have played a card, the trick ends. The person who played the highest ranking card matching the lead card&#39;s suit wins the trick. If there is a trump suit, however, it beats any suit of any value. Higher ranked trump suits beat lower ranked trump suits.</li>
+<li>The player who won the trick takes the cards and places them in their holder. They should also add one point to their &quot;Tricks Won&quot; counter.</li>
+<li>The player who won the trick begins the next trick by laying down a new card from their hand. Play continues as normal from there.</li>
+<li>Proceed in this manner until all player hands are empty.</li>
+<li>After the last trick of the hand is taken, reshuffle the cards. The player who went next after the first dealer becomes the new dealer.</li>
+<li>Deal one less card than the previous round, then place new bids and begin laying down cards as before.</li>
+<li>In each round that follows, dealers will give out one less card than the previous round, all the way to the point where players will receive just one card in a deal. Then, for the next round, players will get one extra card in each starting hand, all the way up to the original amount (10 for most groups of players).</li>
+<li>Games of Oh Hell! traditionally last as many hands as the above sequence will allow. So, if a game starts with 10 cards being dealt, players stay in the game until 10 cards are dealt again.</li>
+</ol>
+<h3 id="taking-a-turn">Taking a Turn</h3>
+<ol>
+<li>The first player plays the lead card in a trick.</li>
+<li>The following players must match that card&#39;s suit if possible. If they cannot, they may play any card in their hand.</li>
+<li>When each player has played a card, the person who laid down the highest value card matching the lead card&#39;s suit (or a trump card) wins the trick.</li>
+<li>The next trick plays out as above until all player hands are emptied.</li>
+</ol>
+<h3 id="scoring">Scoring</h3>
+<ol>
+<li>When a hand ends, give each player one point for each trick they took.</li>
+<li>If a player took exactly as many tricks as their bid, they gain 10 extra points.</li>
+<li>At the end of all of the rounds, the player with the highest score is declared the winner.</li>
+<li>There are many scoring variations for Oh Hell! Feel free to explore and experiment on your own!</li>
+</ol>
+</div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="oh-hell">Start Game</button><button class="StartGameButton__create-bulk" data-template="oh-hell"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><p>Welcome!</p><p>PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed.</p><p>Create a room and share the room code to get started.</p></div><script async src="../build/bundle-web.js"></script></body></html>

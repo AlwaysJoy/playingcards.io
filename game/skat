@@ -1,0 +1,141 @@
+<!DOCTYPE html><html class="Web LandingPage" lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="application-name" content="PlayingCards.io"><link rel="apple-touch-icon" href="../img/apple-touch-icon.png"><link rel="stylesheet" href="../../https@use.typekit.net/dkw1lrx.css"><title>Skat · 3 Players · Play Free Online</title><meta property="og:title" content="Multiplayer Skat online on PlayingCards.io"><meta property="og:image" content="/img/landing/skat.png"><meta name="description" content="Skat is a nuanced trick-taking card game from Germany. Its core mechanics seem simple, but the game hides deep scoring and strategic complexity that takes time to master."><meta property="og:description" content="Skat is a nuanced trick-taking card game from Germany. Its core mechanics seem simple, but the game hides deep scoring and strategic complexity that takes time to master."><link rel="stylesheet" href="../build/web.css"></head><body><nav class="SiteNav">
+<button class="SiteNav__hamburger" onClick="document.querySelector('.SiteNav').classList.toggle('SiteNav--expand')">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path></svg>
+</button>
+<div class="SiteNav__contents">
+<a class="SiteNav__link" href="../default.htm">Home</a>
+<a class="SiteNav__link" href="../games/default.htm">Games</a>
+<a class="SiteNav__link" href="../docs/default.htm">Help</a>
+<a class="SiteNav__link SiteNav__link--premium" href="../account/subscription">Premium</a>
+<div class="SiteNav__right"></div><a class="AccountInfo__user" href="../account"><div class="AccountInfo__user-name" style="display:none"></div><div class="AccountInfo__user-go" style="display:none">Your Account</div><div class="AccountInfo__user-start" style="display:none">Log In / Sign Up</div><div class="Throbber Throbber--small Throbber--dark" style="display:none"></div></a><a class="SiteNav__icon-link" href="../import">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.9 97.98L414.02 14.1c-9-9-21.2-14.1-33.89-14.1H175.99C149.5.1 128 21.6 128 48.09V288H8c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h248v52.67c0 10.98 6.38 20.55 16.69 24.97 14.93 6.45 26.88-1.61 30.88-5.39l71.72-68.12c5.62-5.33 8.72-12.48 8.72-20.12s-3.09-14.8-8.69-20.11l-71.78-68.16c-8.28-7.8-20.41-9.88-30.84-5.38-10.31 4.42-16.69 13.98-16.69 24.97V288H160V48.09c0-8.8 7.2-16.09 16-16.09h176.04v104.07c0 13.3 10.7 23.93 24 23.93h103.98v304.01c0 8.8-7.2 16-16 16H175.99c-8.8 0-16-7.2-16-16V352H128v112.01c0 26.49 21.5 47.99 47.99 47.99h288.02c26.49 0 47.99-21.5 47.99-47.99V131.97c0-12.69-5.1-24.99-14.1-33.99zM288 245.12L350 304l-62 58.88V245.12zm96.03-117.05V32.59c2.8.7 5.3 2.1 7.4 4.2l83.88 83.88c2.1 2.1 3.5 4.6 4.2 7.4h-95.48z"></path></svg>
+<span class="SiteNav__icon-label">Import</span>
+</a>
+<a class="SiteNav__icon-link" href="standard-deck">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 64c8.8 0 16 7.2 16 16v352c0 8.8-7.2 16-16 16H48c-8.8 0-16-7.2-16-16V80c0-8.8 7.2-16 16-16h352m0-32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-60 206h-98v-98c0-6.6-5.4-12-12-12h-12c-6.6 0-12 5.4-12 12v98h-98c-6.6 0-12 5.4-12 12v12c0 6.6 5.4 12 12 12h98v98c0 6.6 5.4 12 12 12h12c6.6 0 12-5.4 12-12v-98h98c6.6 0 12-5.4 12-12v-12c0-6.6-5.4-12-12-12z"></path></svg>
+<span class="SiteNav__icon-label">New Custom Room</span>
+</a>
+</div>
+</nav><div class="Web__section"><h1>Skat on PlayingCards.io</h1><img class="LandingPage__image" src="../img/landing/skat.png"><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="skat-french">Start Game (French Deck)</button><button class="StartGameButton__create-bulk" data-template="skat-french"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="skat-german">Start Game (German Deck)</button><button class="StartGameButton__create-bulk" data-template="skat-german"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="LandingPage__instructions"><p>Skat is a nuanced trick-taking card game from Germany. Its core mechanics seem simple, but the game hides deep scoring and strategic complexity that takes time to master.</p>
+<p>The German &quot;Skat&quot; is unrelated to American &quot;Scat,&quot; though there are German-American versions of the game, including Texas Skat and Tournée Skat.</p>
+<h2 id="skat-rules">Skat Rules</h2>
+<h3 id="objective">Objective</h3>
+<ul>
+<li>The goal of Skat is to place a bid and win the subsequent round of tricks, all while maximizing your score.</li>
+<li>The player named the declarer in each round must reach 61 card points to win. Their opponents win if they reach a combined score of 60.</li>
+<li>There are multiple contract types and game modifiers in Skat. One could play dozens of hands and never use the exact same set of rules.</li>
+</ul>
+<h3 id="set-up">Set Up</h3>
+<ol>
+<li>You will need one deck of 32 cards containing four suits ranked A, K, Q, J, 10, 9, 8, and 7. You may also use a German-suited deck with the same rankings.</li>
+<li>Skat must be played with three active players.</li>
+<li>Choose a dealer any way you like and place them in the Player 1 seat. Deal each player a hand of ten cards. The remaining two cards are placed face-down to form the Skat Stack.</li>
+<li>Next, players enter a bidding phase to determine who is named the declarer and who will be the defenders. The declarer picks the contract and is actively trying to win, while the two defenders are trying to prevent the declarer from winning.</li>
+<li>Bids are a wager of how many points the game will be worth at the end of the round. Players will want to outbid opponents so they can become the declarer, but they won&#39;t want to bid so high that they can&#39;t achieve that many points. The minimum point value for a game is 18, so set that as the lowest bid. (Read the Scoring section at the bottom before bidding, as you need to fully understand how game points work before bidding.)</li>
+<li>The two non-dealer players bid against each other first. One player makes a bid, then the other will accept or pass. If accepting, the other player may then increase their bid or pass. Whoever passes loses the auction.</li>
+<li>The auction winner repeats this process and bids against the dealer. The final winner is named the declarer.</li>
+<li>The declarer may now choose between playing a Skat Game or a Hand Game. A Skat Game simply means the declarer picks up the face-down Skat cards, adds them to their hand, then discards two cards, face-down. A Hand Game doesn&#39;t use the Skat cards.</li>
+<li>Finally, the declarer will select a contract type, explained in the next section.</li>
+</ol>
+<h3 id="contracts">Contracts</h3>
+<ol>
+<li>Contracts set certain rules for the proceeding round. The following contract styles may be chosen in both Skat and Hand games:<ul>
+<li>Suit - Declarer names a suit as trump. All Jacks are considered as having this suit and will beat trumps of other ranks. The declarer must score 61 points to win.</li>
+<li>Grand - Jacks are the only trumps. Ranked from highest to lowest: clubs, spades, hearts, diamonds. Declarers must score 61 points to win.</li>
+<li>Null - No trumps, not even Jacks, and card value order shifts slightly (see below). Also, the declarer&#39;s goal in this contract is to lose all of the tricks. No card point value is required to win.</li>
+<li>Open Null - Same as the above, but the declarer&#39;s hand is exposed.</li>
+</ul>
+</li>
+<li>When choosing either a Suit or Grand contract when playing a Hand Game, the declarer may also make any of the following announcements before the first trick:</li>
+</ol>
+<ul>
+<li>Schneider - Increases the winning card point value requirement to 90.</li>
+<li>Schwarz - A declaration that the player will win all of the tricks.</li>
+<li>Open - Win all of the tricks while cards in their hand are played face-up on the table.</li>
+</ul>
+<ol start="4">
+<li>Card ranks for most contract types in Skat are slightly different from what players may be used to. From highest to lowest:</li>
+</ol>
+<ul>
+<li>Jack (clubs), Jack (spades), Jack (hearts), Jack (diamonds)</li>
+<li>Trump-suited A, 10, K, Q, 9, 8, 7</li>
+<li>Non-trump suits A, 10, K, Q, 9, 8, 7</li>
+<li>Null contract values -  A, K, Q, J, 10, 9, 8, 7</li>
+</ul>
+<ol start="4">
+<li>Once a contract is chosen, the round of trick-taking can finally begin.</li>
+</ol>
+<h3 id="playing-the-game">Playing the Game</h3>
+<ol>
+<li>Players take turns laying cards in the center of the table in an effort to win each trick by placing the highest value card.</li>
+<li>Player 2 always plays the first card of the game (the &quot;lead trick&quot;), regardless of who the dealer is. Play proceeds clockwise from the lead trick.</li>
+<li>When laying down subsequent cards, players must follow the suit of the previous card if they can. If they&#39;re unable to, they may play any card.</li>
+<li>After the third player lays down a card, the trick ends. Whoever laid down the highest ranking trump card (or highest ranking card, if no trump) wins the trick. They take the three cards and keep them for later scoring.</li>
+<li>The player who won the trick begins the next round by laying down another card in the center of the table.</li>
+<li>Play continues for ten rounds, at which point all hands will be empty. Points are then tallied and another round begins, this time with a new dealer.</li>
+<li>Every player should deal the same number of times before ending the game. This means a minimum of three rounds per game.</li>
+</ol>
+<h3 id="taking-a-turn">Taking a Turn</h3>
+<ol>
+<li>The last player who won a trick lays down the first card. If it&#39;s the first round, Player 2 begins.</li>
+<li>Subsequent players try to lay down a trump card or a card of a higher value.</li>
+<li>After all players lay down a card, the one who played the highest value wins the trick and takes all three cards.</li>
+</ol>
+<h3 id="scoring">Scoring</h3>
+<ol>
+<li>Skat utilizes two types of points: card points and game points. Card points simply determines who wins the game, while game points determine what their final score will be.</li>
+<li>First, players calculate card points to determine who wins: the declarer or the defenders.</li>
+<li>The declarer tallies their won trick cards (along with the Skat Stack), while the other two players combine their won tricks and scores. Use the following chart to determine card value:<ul>
+<li>Ace - 11 points each</li>
+<li>10 - 10 points each</li>
+<li>King - 4 points each</li>
+<li>Queen - 3 points each</li>
+<li>Jack - 2 points each</li>
+</ul>
+</li>
+<li>If playing Suit or Grand contracts, the declarer must reach a score of 61 to win. If the other players reach a combined score of 60, they win. The maximum card point score for the deck is 120, so only one of these conditions will be true.</li>
+<li>Next, players will calculate the value of the game using game points. The first number to be aware of is the base value for each type of contract:<ul>
+<li>Diamond trump - 9</li>
+<li>Heart trump - 10</li>
+<li>Spade trump - 11</li>
+<li>Club trump - 12</li>
+<li>Grand contract - 24</li>
+</ul>
+</li>
+<li>Multipliers will then be applied to the above values. Note that all applicable multipliers listed below are added together to create a final multiplier:<ul>
+<li>Game (always added) - 1</li>
+<li>Matadors - 1 per matador</li>
+<li>Hand Game - 1</li>
+<li>Schneider (any player) - 1</li>
+<li>Schneider announced - 1</li>
+<li>Schwarz (any player) - 1</li>
+<li>Schwarz announced - 1</li>
+<li>Open - 1</li>
+</ul>
+</li>
+<li>Even if they weren&#39;t declared beforehand, Schneider and Schwarz rules also apply in scoring. These are in addition to the multiplier added for announcing, so if a declarer both calls and achieves Schneider, they will add 2 to their multiplier.<ul>
+<li>If the declarer scores more than 90 points, they are Schneider.</li>
+<li>If the declarer wins every trick, they are Schwarz.</li>
+</ul>
+</li>
+<li>Matador multipliers are granted based on the number of sequential Jacks or named trump cards a player did or did not hold in their starting hand (for this purpose, the declarer counts Skat cards as their hand).<ul>
+<li>Example: if the declarer has the Jack of Spades (the highest value card) as well as the three other Jack suits, they would have a matador value of 4.</li>
+<li>Example: if the declarer does not hold the Jack of Spades but does have the next two highest value Jacks in sequence, they are &quot;without&quot; a matador and gain a matador value of 1.</li>
+</ul>
+</li>
+<li>Null contracts have a simpler scoring system. No multipliers are used, simply refer to the chart below if the declarer was successful or unsuccessful at performing the Null contract:<ul>
+<li>Null - 23 gained if successful, 46 lost if unsuccessful</li>
+<li>Null Hand - 35 gained if successful, 70 lost if unsuccessful</li>
+<li>Open Null - 46 gained if successful, 92 lost if unsuccessful</li>
+<li>Open Null Hand - 59 gained if successful, 118 lost if unsuccessful</li>
+</ul>
+</li>
+<li>After all of the above has been calculated, add scores to each player&#39;s score counter. Tallies are preserved between rounds, so after everyone has served as dealer the same number of times, the player with the highest total score wins.</li>
+<li>A declarer can lose points via the methods below. In all cases, players will still add up the total game value, but instead of adding it to the declarer&#39;s score, they subtract twice the value.<ol>
+<li>The declarer did not reach 61 game points.</li>
+<li>The declarer&#39;s initial bid was higher than the game value.</li>
+<li>The declarer announced Schneider or Schwarz but did not get it.</li>
+</ol>
+</li>
+</ol>
+</div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="skat-french">Start Game (French Deck)</button><button class="StartGameButton__create-bulk" data-template="skat-french"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><div class="StartGameButton"><div class="StartGameButton__button"><div class="Throbber Throbber--small Throbber--dark"></div><button class="StartGameButton__create-single" data-template="skat-german">Start Game (German Deck)</button><button class="StartGameButton__create-bulk" data-template="skat-german"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 512"><path d="M32 224c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zM0 136c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32zm0 240c0 17.7 14.3 32 32 32s32-14.3 32-32-14.3-32-32-32-32 14.3-32 32z"/></svg></button></div></div><p>Welcome!</p><p>PlayingCards.io is an online play space which allows you to play any tabletop or card game directly in your browser, multiplayer with your friends, for free. No app install is needed.</p><p>Create a room and share the room code to get started.</p></div><script async src="../build/bundle-web.js"></script></body></html>
